@@ -1,0 +1,1 @@
+export function render(){ console.log('Render app'); }
